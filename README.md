@@ -23,7 +23,15 @@
 
 ### To do App
 
-- (Repositories: )[https://github.com/safaraliyevelmir/todoapp]
+- [Repositories: ](https://github.com/safaraliyevelmir/todoapp)
 - Which Technologies was used - HTML, CSS, JavaScript, Python ,Django, Postgresql
 - Project completion period - 3 daty
+
+
+## Article
+
+- [Flask Crud](https://safaraliyevelmir.medium.com/python-crud-aplikasiyas%C4%B1-a10976bbe0ae)
+- [CSS-Grid](https://safaraliyevelmir.medium.com/display-grid-ad3675594b5e)
+
+
 
