@@ -9,7 +9,7 @@
 - Projenin tamamlanma müddəti - 1 Ay
 
 
-## My Development in Python
+## Python Flask və Django Layihələrim
 
 ### PragmaTechFoundationProject
 
