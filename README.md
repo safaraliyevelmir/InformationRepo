@@ -47,12 +47,21 @@
 - Projenin tamamlanma müddəti - 10 gün
 
 
+### RentAcar
+
+- [Repositories: ](https://github.com/safaraliyevelmir/RentaCar)
+- İstifadə olunan texnologiyalar - Python ,Django, Docker,  Postgresql,
+- Proje haqqında - Bu bir online maşın kiralama saytıdır. Bu saytda admin müxtəlif kataqoriyalarda müxtəlif maşınlar əlavə edir və müştərilər maşın kiralaya bilirlər.
+- Projenin tamamlanma müddəti - 3 gün
+
 ### LottoWin 
 
 - [Repositories: ](https://github.com/safaraliyevelmir/LottoWin)
 - İstifadə olunan texnologiyalar - Python ,Django, Docker, JavaScript, Ajax, Postgresql,
 - Proje haqqında - Bu sayt loterya saytıdır. Bu saytda Bloq, Giriş, qeydiyyat sistemi və captcha. Şifərmi unuttum ,3 Dil üçün çox dillik(multilanguage), Abonəlik sistemi və elanların abonələrə yollanılması, Loterya alınması üçün alqoritma, sayta girən ziyarətçilərin, qaliblərin və istifadəçilərin sayının hesablanması .
 - Projenin tamamlanma müddəti - 2 həftə
+
+
 
 
 ## Article
