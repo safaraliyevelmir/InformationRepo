@@ -41,7 +41,7 @@
 
 ### Tabloshop.az
 
-- [Repositories: ](https://github.com/safaraliyevelmir/TabloShop)
+- [Repositories: ](https://github.com/safaraliyevelmir/Tabloshop.az)
 - İstifadə olunan texnologiyalar - Python ,Django, Docker, JavaScript, Ajax, Json, Postgresql,
 - Proje haqqında - Bu bir e-commerce saytıdır. Bu saytda Axtarış mexanizmi, Giriş və qeydiyyat      sistemi, Endirim, Saxta endirim, Alış-verişlərdən bonus qazanmaq və s. kimi özəlliklər var.
 - Projenin tamamlanma müddəti - 10 gün
