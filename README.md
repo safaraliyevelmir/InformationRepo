@@ -9,7 +9,7 @@
 - Projenin tamamlanma müddəti - 1 Ay
 
 
-## Python Flask və Django Layihələrim
+## Python, Flask və Django Layihələrim
 
 ### PragmaTechFoundationProject
 
@@ -25,12 +25,6 @@
 - Projenin tamamlanma müddəti - 2 Həftə
 
 
-### To do App
-
-- [Repositories: ](https://github.com/safaraliyevelmir/todoapp)
-- İstifadə olunan texnologiyalar - HTML, CSS, JavaScript, Python ,Django, Postgresql
-- Projenin tamamlanma müddəti - 3 gün
-
 
 ### Quiz System
 
@@ -38,6 +32,8 @@
 - İstifadə olunan texnologiyalar - Python ,Django, JavaScript, Ajax, 
 - Proje haqqında - Bu bir online sınaq saytıdır. Sayta qeydiyyatdan keçərkən müəllim və ya tələbə olduğunuz seçirsiniz. Müəllimlər sınaqlar əlavə edir. Tələbələr isə bu sınaqları işləyərək bal toplayırlar
 - Projenin tamamlanma müddəti - 5 gün
+
+
 
 ### Tabloshop.az
 
@@ -47,12 +43,15 @@
 - Projenin tamamlanma müddəti - 10 gün
 
 
+
 ### RentAcar
 
 - [Repositories: ](https://github.com/safaraliyevelmir/RentaCar)
 - İstifadə olunan texnologiyalar - Python ,Django, Docker,  Postgresql,
 - Proje haqqında - Bu bir online maşın kiralama saytıdır. Bu saytda admin müxtəlif kataqoriyalarda müxtəlif maşınlar əlavə edir və müştərilər maşın kiralaya bilirlər.
 - Projenin tamamlanma müddəti - 3 gün
+
+
 
 ### LottoWin 
 
